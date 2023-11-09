@@ -1,3 +1,20 @@
+## Set up and Running the App
+
+Make sure you are in the aa-tamid dir and run ```npm install```
+
+To run the development server run ```npm run dev```
+
+To run the json-server run the following command ```json-server --watch data/majors.json --port 8000```
+
+## General Info and Resources 
+
+Always branch off if you are working on a new feature and make a PR back to the main branch
+
+For a good tutorial on Next.js watch [this playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT&si=FSCVpU2OeypauBCx)
+
+For a good tutorial on Material UI watch [this playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58&si=zuqT2JpoaQdIRAyO)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
